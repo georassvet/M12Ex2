@@ -19,11 +19,11 @@
 ### Description
 <ol>
     <li>
+        <p>
         <strong>Constructors</strong>
+        </p>
         <code>
-            FixSizeCollection collectionDefaultSize = new FixSizeCollection();
-        </code>
-        <code>
+            FixSizeCollection collectionDefaultSize = new FixSizeCollection();<br>
             FixSizeCollection collectionInitSize = new FixSizeCollection(10);
         </code>
     </li>
