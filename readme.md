@@ -22,10 +22,16 @@
         <p>
         <strong>Constructors</strong>
         </p>
+        <p>
         <code>
-            FixSizeCollection collectionDefaultSize = new FixSizeCollection();<br>
+            FixSizeCollection collectionDefaultSize = new FixSizeCollection();
+        </code>
+        </p>
+        <p>
+        <code>
             FixSizeCollection collectionInitSize = new FixSizeCollection(10);
         </code>
+        </p>
     </li>
     <li>
         <p>
